@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+conda-env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyTorch checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Dataset
+data/
+datasets/
+
+# Cache
+.cache/
+
+# Environment variables
+.env
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary
+tmp/
+temp/
