@@ -43,7 +43,7 @@ The source code and documentation are organized according to the following struc
 ├── papers/             # Contains original paper PDFs for easy reference
 ├── checkpoints/        # Stores pre-trained model weights (.pth files)
 └── data/               # Directory containing datasets (added to .gitignore)
-
+```
 ---
 
 ## Learning log & Insights
